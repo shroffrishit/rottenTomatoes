@@ -11,6 +11,6 @@ Optional : For the large poster, load the low-res image first, switch to high-re
 
 Notes:
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+Spend some time in modularizing the labels in detailed view.
 
 ![Video Walkthrough](demo.gif)
